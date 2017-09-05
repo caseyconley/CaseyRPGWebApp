@@ -1,0 +1,76 @@
+﻿{
+  "classes": [
+    {
+      "ClassName": "Warrior",
+      "AttackType": "Melee",
+      "Stats_Base_Agility": 6,
+      "Stats_Base_Strength": 10,
+      "Stats_Base_Intelligence": 4,
+      "Stats_RatePerLevel_Agility": 1.3,
+      "Stats_RatePerLevel_Strength": 2.1,
+      "Stats_RatePerLevel_Intelligence": 0.9,
+      "Stats_Base_Health": 120,
+      "Stats_Base_Mana": 45
+    },
+    {
+      "ClassName": "Mage",
+      "AttackType": "Ranged",
+      "Stats_Base_Agility": 6,
+      "Stats_Base_Strength": 10,
+      "Stats_Base_Intelligence": 4,
+      "Stats_RatePerLevel_Agility": 1.3,
+      "Stats_RatePerLevel_Strength": 2.1,
+      "Stats_RatePerLevel_Intelligence": 0.9,
+      "Stats_Base_Health": 120,
+      "Stats_Base_Mana": 45
+    },
+    {
+      "ClassName": "Rogue",
+      "AttackType": "Melee",
+      "Stats_Base_Agility": 6,
+      "Stats_Base_Strength": 10,
+      "Stats_Base_Intelligence": 4,
+      "Stats_RatePerLevel_Agility": 1.3,
+      "Stats_RatePerLevel_Strength": 2.1,
+      "Stats_RatePerLevel_Intelligence": 0.9,
+      "Stats_Base_Health": 120,
+      "Stats_Base_Mana": 45
+    },
+    {
+      "ClassName": "Necromancer",
+      "AttackType": "Melee",
+      "Stats_Base_Agility": 6,
+      "Stats_Base_Strength": 10,
+      "Stats_Base_Intelligence": 4,
+      "Stats_RatePerLevel_Agility": 1.3,
+      "Stats_RatePerLevel_Strength": 2.1,
+      "Stats_RatePerLevel_Intelligence": 0.9,
+      "Stats_Base_Health": 120,
+      "Stats_Base_Mana": 45
+    },
+    {
+      "ClassName": "Priest",
+      "AttackType": "Ranged",
+      "Stats_Base_Agility": 6,
+      "Stats_Base_Strength": 10,
+      "Stats_Base_Intelligence": 4,
+      "Stats_RatePerLevel_Agility": 1.3,
+      "Stats_RatePerLevel_Strength": 2.1,
+      "Stats_RatePerLevel_Intelligence": 0.9,
+      "Stats_Base_Health": 120,
+      "Stats_Base_Mana": 45
+    },
+    {
+      "ClassName": "Archer",
+      "AttackType": "Ranged",
+      "Stats_Base_Agility": 6,
+      "Stats_Base_Strength": 10,
+      "Stats_Base_Intelligence": 4,
+      "Stats_RatePerLevel_Agility": 1.3,
+      "Stats_RatePerLevel_Strength": 2.1,
+      "Stats_RatePerLevel_Intelligence": 0.9,
+      "Stats_Base_Health": 120,
+      "Stats_Base_Mana": 45
+    }
+  ]
+}

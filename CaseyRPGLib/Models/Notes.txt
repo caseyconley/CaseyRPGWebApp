@@ -1,0 +1,10 @@
+﻿Models:
+-Character
+	-each class
+	-experience
+-Weapon
+
+
+Frameworks/Protocols
+-Combat
+-
